@@ -1,6 +1,24 @@
 # Data_analysis_using_covid19_data_Tableau
 This is the simple demonstration of how we can create different and interesting charts, visuals and dashboards from same data.
 
+### 🧠 Tech Stack & Skills
+
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue)
+![Data%20Analysis](https://img.shields.io/badge/Data%20Analysis-COVID--19%20Dataset-green)
+![Dashboards](https://img.shields.io/badge/Dashboards-Interactive-orange)
+![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-Charts%20%26%20Maps-purple)
+![Trend%20Analysis](https://img.shields.io/badge/Trend%20Analysis-Time%20Series-red)
+![Forecasting](https://img.shields.io/badge/Forecasting-Predictive%20Modeling-success)
+![Global%20Analysis](https://img.shields.io/badge/Global%20Analysis-Country--Level%20Insights-lightgrey)
+
+
+Data_analysis_using_covid19_data_Tableau/
+├── dashboards/        # Tableau dashboards (.twbx / .twb)
+├── data/              # COVID-19 dataset
+├── images/            # Screenshots of charts & dashboards
+└── README.md          # Project documentation
+
+
 The following questions we asked and then created visuals from Covid-19 Dataset.
 
 1. What are the total number of Confirmed cases in different nations?
