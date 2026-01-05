@@ -12,13 +12,6 @@ This is the simple demonstration of how we can create different and interesting 
 ![Global%20Analysis](https://img.shields.io/badge/Global%20Analysis-Country--Level%20Insights-lightgrey)
 
 
-Data_analysis_using_covid19_data_Tableau/
-├── dashboards/        # Tableau dashboards (.twbx / .twb)
-├── data/              # COVID-19 dataset
-├── images/            # Screenshots of charts & dashboards
-└── README.md          # Project documentation
-
-
 The following questions we asked and then created visuals from Covid-19 Dataset.
 
 1. What are the total number of Confirmed cases in different nations?
